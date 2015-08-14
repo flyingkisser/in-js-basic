@@ -1,0 +1,3 @@
+[submodule "src/common-js"]
+	path = src/common-js
+	url = https://github.com/yisiyidian-ltd/common-js
