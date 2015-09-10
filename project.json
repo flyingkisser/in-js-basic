@@ -7,11 +7,45 @@
     "id" : "gameCanvas",
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
+    "modules"       : ["cocos2d", "extensions", "external"],
 
-    "modules" : ["cocos2d"],
 
     "jsList" : [
+
+        "src/common-js/enginefix.js",
+
+        "src/common-js/ui.js",
+        "src/common-js/sys.js",
+        "src/common-js/http.js",
+        "src/common-js/rand.js",
+        "src/common-js/string.js",
+        "src/common-js/timer.js",
+        "src/common-js/time.js",
+        "src/common-js/dir.js",
+        "src/common-js/file.js",
+        "src/common-js/global.js",
+
+
+
+        "src/ui/buttonLayer.js",
+        "src/ui/checkBoxLayer.js",
+        "src/ui/imageViewLayer.js",
+        "src/ui/textLayer.js",
+        "src/ui/textBMFontLayer.js",
+        "src/ui/loadingBarLayer.js",
+        "src/ui/sliderLayer.js",
+        "src/ui/textFieldLayer.js",
+        "src/ui/listViewLayer.js",
+        "src/ui/scrollViewLayer.js",
+        "src/ui/videoViewLayer.js",
+        "src/ui/webViewLayer.js",
+
+        "src/logic/loaderLayer.js",
+
+
+        "src/ui/testLayer.js",
         "src/resource.js",
         "src/app.js"
+
     ]
 }

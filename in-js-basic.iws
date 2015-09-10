@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eecec9d-1e99-48d9-b9ab-de6d52c73ac4" name="Default" comment="" />
+    <list default="true" id="0eecec9d-1e99-48d9-b9ab-de6d52c73ac4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common-js/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/common-js/dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ui/videoViewLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ui/webViewLayer.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/common-js/sys_util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/common-js/ui_util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/func-closure.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/namespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/oop-define.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/oop-extend-1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/oop-extend-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/oop-extend-3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/statements.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vars.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common-js" afterPath="$PROJECT_DIR$/src/common-js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/ActionTimeline.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/ActionTimeline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionCatmullRom.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionCatmullRom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionEase.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionEase.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionGrid.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions3d/CCActionGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionInterval.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCActionManager.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCActionManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionTween.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/actions/CCActionTween.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCAtlasNode.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCAtlasNode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBAnimationManager.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBAnimationManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReader.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBReader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBRelativePositioning.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccb-reader/CCBRelativePositioning.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCBoneNode.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCBoneNode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/CCBoot.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/CCBoot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComponentContainer.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/components/CCComponentContainer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCConfiguration.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCConfiguration.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlButton.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlButton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlStepper.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlStepper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSwitch.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCControlSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCDataReaderHelper.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/armature/utils/CCDataReaderHelper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/CCDebugger.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/CCDebugger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirectorWebGL.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirectorWebGL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesWebGL.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDrawingPrimitivesWebGL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventManager.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/event-manager/CCEventManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders/CCGLProgram.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/shaders/CCGLProgram.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlasCanvasRenderCmd.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlasCanvasRenderCmd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlasWebGLRenderCmd.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/labels/CCLabelAtlasWebGLRenderCmd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCLoaders.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCLoaders.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenu.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenuItem.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/menus/CCMenuItem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/motion-streak/CCMotionStreak.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/motion-streak/CCMotionStreak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/node-grid/CCNodeGrid.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/node-grid/CCNodeGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNode.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/parallax/CCParallaxNode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCParticleBatchNode.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/particle/CCParticleBatchNode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCSAXParser.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/platform/CCSAXParser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCScale9Sprite.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/control-extension/CCScale9Sprite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCSkeletonNode.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/CCSkeletonNode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/scrollview/CCSorting.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/gui/scrollview/CCSorting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXLayer.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXLayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXTiledMap.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXTiledMap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXXMLParser.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/tilemap/CCTMXXMLParser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input/CCTextFieldTTF.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/text-input/CCTextFieldTTF.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/transitions/CCTransition.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/transitions/CCTransition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/CHANGELOG.txt" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/CHANGELOG.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/renderer/RendererWebGL.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/renderer/RendererWebGL.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine/Spine.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine/Spine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/Timeline.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/timeline/Timeline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIListView.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIListView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIPageView.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIPageView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9Sprite.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/base-classes/UIScale9Sprite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIVideoPlayer.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/uiwidgets/UIVideoPlayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/action-2.x.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/action-2.x.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app.js" afterPath="$PROJECT_DIR$/src/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.json" afterPath="$PROJECT_DIR$/config.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/genBuildXml.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/tools/genBuildXml.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common-js/global.js" afterPath="$PROJECT_DIR$/src/common-js/global.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in-js-basic.ipr" afterPath="$PROJECT_DIR$/in-js-basic.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/in-js-basic.iws" afterPath="$PROJECT_DIR$/in-js-basic.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_property_apis.js" afterPath="$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_property_apis.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/loader/load.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/loader/load.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/gl/matrix.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/gl/matrix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.json" afterPath="$PROJECT_DIR$/project.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/quaternion.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/kazmath/quaternion.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/resource.js" afterPath="$PROJECT_DIR$/src/resource.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/timelineParser-2.x.js" afterPath="$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/cocostudio/loader/parsers/timelineParser-2.x.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/parsers/timelineParser-2.x.js" afterPath="$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/parsers/timelineParser-2.x.js" />
+    </list>
     <ignored path="in-js-basic.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,16 +112,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jsb.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,74 +132,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsb_prepare.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_prepare.js">
+      <file leaf-file-name="jsb_debugger.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_debugger.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.23342176">
-              <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dir.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common-js/dir.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#37#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ui.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common-js/ui.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="jsb_boot.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_boot.js">
+        <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_boot.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1550" column="0" selection-start-line="1550" selection-start-column="0" selection-end-line="1550" selection-end-column="0" />
+              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app.js">
+      <file leaf-file-name="loaderLayer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/logic/loaderLayer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.51858735">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jsb_create_apis.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_create_apis.js">
+      <file leaf-file-name="func-closure.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/grammar/func-closure.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CCNode.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js">
+      <file leaf-file-name="file.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common-js/file.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1516" column="4" selection-start-line="1516" selection-start-column="4" selection-end-line="1516" selection-end-column="4" />
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resource.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resource.js">
+      <file leaf-file-name="jsb_debugger.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_debugger.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="statements.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/statements.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#37#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -135,6 +226,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -144,7 +239,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/grammer.js" />
-        <option value="$PROJECT_DIR$/src/app.js" />
         <option value="$PROJECT_DIR$/src/statements.js" />
         <option value="$PROJECT_DIR$/src/string.js" />
         <option value="$PROJECT_DIR$/src/array.js" />
@@ -156,6 +250,34 @@
         <option value="$PROJECT_DIR$/src/oop-extend-2.js" />
         <option value="$PROJECT_DIR$/src/oop-extend-3.js" />
         <option value="$PROJECT_DIR$/src/vars.js" />
+        <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/src/common-js/platform_util.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/src/common-js/global.js" />
+        <option value="$PROJECT_DIR$/src/common-js/sys.js" />
+        <option value="$PROJECT_DIR$/src/common-js/httpUtil.js" />
+        <option value="$PROJECT_DIR$/src/cocosstudio/buttonLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/buttonLayer.js" />
+        <option value="$PROJECT_DIR$/src/app.js" />
+        <option value="$PROJECT_DIR$/src/ui/checkBoxLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/textLayer.js" />
+        <option value="$PROJECT_DIR$/src/resource.js" />
+        <option value="$PROJECT_DIR$/src/ui/sliderLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/webViewLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/videoLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/testLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/videoViewLayer.js" />
+        <option value="$PROJECT_DIR$/src/ui/loadingBarLayer.js" />
+        <option value="$PROJECT_DIR$/src/common-js/http.js" />
+        <option value="$PROJECT_DIR$/src/common-js/ui.js" />
+        <option value="$PROJECT_DIR$/src/common-js/file.js" />
+        <option value="$PROJECT_DIR$/project.json" />
+        <option value="$PROJECT_DIR$/src/common-js/enginefix.js" />
+        <option value="$PROJECT_DIR$/src/common-js/dir.js" />
+        <option value="$PROJECT_DIR$/src/common-js/config.js" />
+        <option value="$PROJECT_DIR$/src/logic/loaderLayer.js" />
+        <option value="$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_boot.js" />
+        <option value="$PROJECT_DIR$/src/grammar/func-closure.js" />
       </list>
     </option>
   </component>
@@ -163,14 +285,21 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="NamedScopeManager">
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="27" />
-    <option name="width" value="1906" />
-    <option name="height" value="1099" />
+    <option name="x" value="464" />
+    <option name="y" value="890" />
+    <option name="width" value="1523" />
+    <option name="height" value="945" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -188,14 +317,14 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -211,10 +340,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches">
-        <subPane />
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,22 +372,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="in-js-basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="in-js-basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches">
+        <subPane />
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.23552124" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="UNSCRAMBLE_LOG_FILE_LAST_URL" value="" />
     <property name="recentsLimit" value="5" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="JSBinding.myruntime">
     <configuration default="false" name="oop-extend.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/Cellar/node/0.12.7/bin/node" path-to-js-file="$PROJECT_DIR$/src/oop-extend-1.js" working-dir="$PROJECT_DIR$/src">
@@ -275,17 +423,6 @@
       <method />
     </configuration>
     <configuration default="false" name="vars.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/Cellar/node/0.12.7/bin/node" path-to-js-file="vars.js" working-dir="$PROJECT_DIR$/src">
-      <method />
-    </configuration>
-    <configuration default="false" name="in-js-basic" type="#org.ccdt.lua.launch.CocosJSConfigurationType" factoryName="JSBinding" temporary="true">
-      <first key="argument_map">
-        <second key="macruntime" stringValue="runtime/mac/PrebuiltRuntimeJs.app" />
-        <second key="connector_id" stringValue="jsbinding.mac.attach.connector" />
-        <second key="remotePlatform" stringValue="Android" />
-        <second key="host" stringValue="127.0.0.1" />
-        <second key="androidruntime" stringValue="runtime/android/PrebuiltRuntimeJs.apk" />
-        <second key="iosruntime" stringValue="runtime/ios/PrebuiltRuntimeJs.app" />
-      </first>
       <method />
     </configuration>
     <configuration default="true" type="#org.ccdt.lua.launch.CocosJSConfigurationType" factoryName="JSBinding">
@@ -559,6 +696,23 @@
       <first key="argument_map">
         <second key="macruntime" stringValue="myruntime/bbword-runtime-desktop.app" />
         <second key="win32runtime" stringValue="" />
+        <second key="connector_id" stringValue="jsbinding.ios.attach.connector" />
+        <second key="remotePlatform" stringValue="Android" />
+        <second key="host" stringValue="127.0.0.1" />
+        <second key="androidruntime" stringValue="myruntime/bbword-runtime-debug.apk" />
+        <second key="iosSimulatorFamily" stringValue="iPhone-5s, 8.4" />
+        <second key="iosruntime" stringValue="myruntime/bbword-runtime-mobile.app" />
+      </first>
+      <method />
+    </configuration>
+    <configuration default="false" name="cocos-js1" type="#org.ccdt.lua.launch.CocosJSConfigurationType" factoryName="JSBinding">
+      <first key="runtime_arguments" stringValue="" />
+      <first key="force_update_entry_file" booleanValue="true" />
+      <first key="disable_live_coding" booleanValue="false" />
+      <first key="disable_using_upload" booleanValue="false" />
+      <first key="argument_map">
+        <second key="macruntime" stringValue="myruntime/cocos-js1-desktop.app" />
+        <second key="win32runtime" stringValue="" />
         <second key="connector_id" stringValue="jsbinding.mac.attach.connector" />
         <second key="remotePlatform" stringValue="Android" />
         <second key="host" stringValue="127.0.0.1" />
@@ -568,25 +722,45 @@
       </first>
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="default" type="#org.ccdt.lua.launch.CocosJSConfigurationType" factoryName="JSBinding">
+      <first key="runtime_arguments" stringValue="" />
+      <first key="force_update_entry_file" booleanValue="true" />
+      <first key="disable_live_coding" booleanValue="false" />
+      <first key="disable_using_upload" booleanValue="false" />
+      <first key="argument_map">
+        <second key="macruntime" stringValue="runtime/mac/PrebuiltRuntimeJs.app" />
+        <second key="win32runtime" stringValue="" />
+        <second key="connector_id" stringValue="jsbinding.mac.attach.connector" />
+        <second key="remotePlatform" stringValue="Android" />
+        <second key="host" stringValue="127.0.0.1" />
+        <second key="androidruntime" stringValue="runtime/android/PrebuiltRuntimeJs.apk" />
+        <second key="iosSimulatorFamily" stringValue="iPhone-4s, 8.4" />
+        <second key="iosruntime" stringValue="runtime/ios/PrebuiltRuntimeJs.app" />
+      </first>
+      <method />
+    </configuration>
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="JSBinding.myruntime" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.oop-extend.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.oop-extend-2.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.oop-extend-3.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.vars.js" />
-      <item index="5" class="java.lang.String" itemvalue="JSBinding.in-js-basic" />
+      <item index="1" class="java.lang.String" itemvalue="JSBinding.cocos-js1" />
+      <item index="2" class="java.lang.String" itemvalue="JSBinding.default" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.oop-extend.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.oop-extend-2.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.oop-extend-3.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.vars.js" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JSBinding.in-js-basic" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.vars.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.oop-extend-3.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.oop-extend-2.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.oop-extend.js" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.vars.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.oop-extend-3.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.oop-extend-2.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.oop-extend.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0eecec9d-1e99-48d9-b9ab-de6d52c73ac4" name="Default" comment="" />
@@ -596,76 +770,88 @@
       <workItem from="1439210412354" duration="5651000" />
       <workItem from="1439275623496" duration="18572000" />
       <workItem from="1439363815200" duration="422000" />
-      <workItem from="1439364876672" duration="18468000" />
+      <workItem from="1439364876672" duration="24631000" />
+      <workItem from="1439531714119" duration="8979000" />
+      <workItem from="1439550045303" duration="4208000" />
+      <workItem from="1439797082436" duration="1806000" />
+      <workItem from="1439799816081" duration="10459000" />
+      <workItem from="1439896201324" duration="2906000" />
+      <workItem from="1439900798268" duration="2409000" />
+      <workItem from="1439964097465" duration="3840000" />
+      <workItem from="1439971250205" duration="1571000" />
+      <workItem from="1440061114759" duration="3977000" />
+      <workItem from="1440401916307" duration="5222000" />
+      <workItem from="1440423600942" duration="20158000" />
+      <workItem from="1440832924827" duration="3274000" />
+      <workItem from="1441014729029" duration="1263000" />
+      <workItem from="1441020710014" duration="2740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43113000" />
+    <option name="totallyTimeSpent" value="122088000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="27" width="1906" height="1099" extended-state="0" />
+    <frame x="464" y="890" width="1523" height="945" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32912722" sideWeight="0.49724138" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22343595" sideWeight="0.50912017" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31559855" sideWeight="0.7440918" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980973" sideWeight="0.49758786" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29294935" sideWeight="0.49356222" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969216" sideWeight="0.4914163" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19420601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24442944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24965517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22343595" sideWeight="0.49087983" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31559855" sideWeight="0.25590816" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21035941" sideWeight="0.49758786" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.52112675" sideWeight="0.48551723" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/frameworks/cocos2d-html5" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/src/vars.js</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/src/vars.js</url>
-          <line>44</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/src/app.js</url>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/src/array.js</url>
-          <line>95</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="cocos javascript">
           <url>file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_debugger.js</url>
           <line>185</line>
           <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/main.js</url>
-          <line>66</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="cocos javascript">
           <url>file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb.js</url>
@@ -673,296 +859,107 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/src/ui/videoViewLayer.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
           <url>file://$PROJECT_DIR$/main.js</url>
-          <line>50</line>
-          <option name="timeStamp" value="17" />
+          <line>52</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/src/app.js</url>
-          <line>6</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/main.js</url>
+          <line>66</line>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="cocos javascript">
-          <url>file://$PROJECT_DIR$/src/app.js</url>
-          <line>76</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_debugger.js</url>
+          <line>185</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_debugger.js</url>
+          <line>189</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_debugger.js</url>
+          <line>183</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/myruntime/bbword-runtime-desktop.app/Contents/Resources/script/jsb_debugger.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_boot.js</url>
+          <line>1449</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_cocos2d.js</url>
+          <line>1334</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/src/common-js/file.js</url>
+          <line>7</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_boot.js</url>
+          <line>460</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/src/logic/loaderLayer.js</url>
+          <line>27</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/src/logic/loaderLayer.js</url>
+          <line>56</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/src/logic/loaderLayer.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="cocos javascript">
+          <url>file://$PROJECT_DIR$/src/logic/loaderLayer.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="117" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="118" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="#org.ccdt.lua.launch.CocosJSConfigurationType">
-        <watch expression="ccPath" language="JavaScript" custom="" />
-        <watch expression="cb" language="JavaScript" custom="" />
-        <watch expression="this.cb" language="JavaScript" custom="" />
-        <watch expression="menu.x" language="JavaScript" custom="" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history>
+      <element expression="SpriteFrame" />
+    </find-history>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/vars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/external/pluginx/platform/facebook_sdk.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31088084">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/layers/CCLayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="996" column="0" selection-start-line="996" selection-start-column="0" selection-end-line="996" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="46" />
-          <folding>
-            <element signature="n#!!doc;n#showArray#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runtime/win32/script/jsb_debugger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="186" column="28" selection-start-line="186" selection-start-column="21" selection-end-line="186" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_debugger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="186" column="4" selection-start-line="186" selection-start-column="4" selection-end-line="186" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_debugger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="187" column="19" selection-start-line="187" selection-start-column="18" selection-end-line="187" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/spine/Spine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2370" column="4" selection-start-line="2370" selection-start-column="4" selection-end-line="2370" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/func-closure.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop-extend-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.32258">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop-extend-2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="41" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop-extend-3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#extend#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/prototype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6567164">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78018993">
-          <caret line="52" column="14" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oop-define.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6268657">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/namespace.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/vars.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/CCBoot.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2372" column="78" selection-start-line="2372" selection-start-column="78" selection-end-line="2372" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_cocos2d_constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33256352">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_prepare.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="145" column="25" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_cocos2d.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1399" column="22" selection-start-line="1399" selection-start-column="22" selection-end-line="1399" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_property_impls.js">
+    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_create_apis.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_property_apis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,29 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_opengl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_opengl_constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1000,110 +974,306 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_spine.js">
+    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_prepare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="145" column="25" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/CCDirector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="918" column="18" selection-start-line="918" selection-start-column="13" selection-end-line="918" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_deprecated.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSpriteFrameCache.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos-js1-desktop/debugruntime/script/jsb_boot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="664" column="0" selection-start-line="664" selection-start-column="0" selection-end-line="664" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos-js1-desktop/debugruntime/script/jsb_prepare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="261" column="22" selection-start-line="261" selection-start-column="22" selection-end-line="261" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cocos-project.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/jsb_studio_boot.js">
+    <entry file="file://$PROJECT_DIR$/.project">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/jsb_cocos2d_studio.js">
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/extensions/ccui/system/UIHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3896774">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cocos-js1-desktop/debugruntime/script/studio/jsb_studio_load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="192" column="0" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/debugger/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/jsb_studio_create_apis.js">
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/CCDebugger.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/jsb_studio_load.js">
+    <entry file="file://$PROJECT_DIR$/src/common-js/global.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/studio/jsb_studio_property_apis.js">
+    <entry file="file://$PROJECT_DIR$/src/common-js/sys.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="19" column="88" selection-start-line="19" selection-start-column="88" selection-end-line="19" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/ccui/jsb_cocos2d_ui.js">
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/sprites/CCSprite.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="500" column="6" selection-start-line="500" selection-start-column="6" selection-end-line="500" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret line="684" column="16" selection-start-line="684" selection-start-column="16" selection-end-line="684" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb.js">
+    <entry file="file://$PROJECT_DIR$/src/ui/checkBoxLayer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="7" />
-          <folding />
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/textLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/sliderLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/webViewLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/resource.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/statements.js">
+    <entry file="file://$PROJECT_DIR$/src/ui/videoViewLayer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <element signature="e#0#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/cocos2d/core/base-nodes/CCNode.js">
+    <entry file="file://$PROJECT_DIR$/src/ui/loadingBarLayer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1516" column="4" selection-start-line="1516" selection-start-column="4" selection-end-line="1516" selection-end-column="4" />
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common-js/rand.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myruntime/bbword-runtime-desktop.app/Contents/Resources/script/jsb_boot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33284023">
+          <caret line="358" column="37" selection-start-line="358" selection-start-column="37" selection-end-line="358" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common-js/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/testLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.948276">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common-js/enginefix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ui/buttonLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="3" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common-js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_prepare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="269" column="0" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/cocos2d-html5/CCBoot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common-js/ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_debugger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="0" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_debugger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myruntime/bbword-runtime-desktop.app/Contents/Resources/script/jsb_debugger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myruntime/bbword-runtime-desktop.app/Contents/Resources/script/jsb_cocos2d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grammar/func-closure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_boot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="27.45114">
+          <caret line="1550" column="0" selection-start-line="1550" selection-start-column="0" selection-end-line="1550" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1116,10 +1286,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_boot.js">
+    <entry file="file://$PROJECT_DIR$/src/common-js/dir.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1550" column="0" selection-start-line="1550" selection-start-column="0" selection-end-line="1550" selection-end-column="0" />
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common-js/file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1132,26 +1312,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_create_apis.js">
+    <entry file="file://$PROJECT_DIR$/frameworks/js-bindings/bindings/script/jsb_boot.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.js">
+    <entry file="file://$PROJECT_DIR$/src/logic/loaderLayer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bbword-runtime-desktop/debugruntime/script/jsb_prepare.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.23342176">
-          <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.51858735">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1229,6 +1401,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">

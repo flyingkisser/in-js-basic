@@ -1,7 +1,7 @@
 {
   "init_cfg": {
-    "isLandscape": true,
-    "isWindowTop": false,
+    "isLandscape": false,
+    "isWindowTop": true,
     "name": "in-js-basic",
     "width": 1136,
     "height": 640,

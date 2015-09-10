@@ -1,0 +1,186 @@
+{
+  "ID": "4dbf49d7-9b0a-42ac-a238-004f362b3731",
+  "Version": "2.3.2.0",
+  "Name": "ButtonLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 20,
+        "Children": [
+          {
+            "FontSize": 24,
+            "ButtonText": "click me",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "1-click.png",
+              "Plist": "UIPlist.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "1-normal.png",
+              "Plist": "UIPlist.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 89,
+            "Scale9Height": 116,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.5149,
+              "Y": 906.9082
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4227,
+              "Y": 0.7983
+            },
+            "PreSize": {
+              "X": 0.1859,
+              "Y": 0.1215
+            },
+            "LeftMargin": 211.0149,
+            "RightMargin": 309.9851,
+            "TopMargin": 160.0918,
+            "BottomMargin": 837.9082,
+            "Tag": 21,
+            "ActionTag": 1377721789,
+            "Size": {
+              "X": 119.0,
+              "Y": 138.0
+            },
+            "Name": "btnClick1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 24,
+            "ButtonText": "click me",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "1-click.png",
+              "Plist": "UIPlist.plist"
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "1-normal.png",
+              "Plist": "UIPlist.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 89,
+            "Scale9Height": 116,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 295.2875,
+              "Y": 446.3226
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4614,
+              "Y": 0.3929
+            },
+            "PreSize": {
+              "X": 0.1859,
+              "Y": 0.1215
+            },
+            "LeftMargin": 235.7875,
+            "RightMargin": 285.2125,
+            "TopMargin": 620.6774,
+            "BottomMargin": 377.3226,
+            "CallBackType": "Click",
+            "CallBackName": "ccsOnClick",
+            "UserData": "\"aa\"",
+            "Tag": 17,
+            "FrameEvent": "ccsOnFrame",
+            "ActionTag": -1300040119,
+            "Size": {
+              "X": 119.0,
+              "Y": 138.0
+            },
+            "Name": "btnClick2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "UIPlist.plist",
+        "UIPlist.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

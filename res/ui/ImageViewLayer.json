@@ -1,0 +1,79 @@
+{
+  "ID": "9abc972c-8fc7-43c6-a38b-5f7cec4245e1",
+  "Version": "2.3.2.0",
+  "Name": "ImageViewLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "1.png",
+              "Plist": "UIPlist.plist"
+            },
+            "Scale9OriginX": 39,
+            "Scale9OriginY": 45,
+            "Scale9Width": 562,
+            "Scale9Height": 763,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.6639,
+              "Y": 620.2408
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5167,
+              "Y": 0.546
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.7509
+            },
+            "LeftMargin": 10.6639,
+            "RightMargin": -10.6639,
+            "TopMargin": 89.2593,
+            "BottomMargin": 193.7408,
+            "Tag": 38,
+            "ActionTag": 127074932,
+            "Size": {
+              "X": 640.0,
+              "Y": 853.0
+            },
+            "Name": "img",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "UIPlist.plist",
+        "UIPlist.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

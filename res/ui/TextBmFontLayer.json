@@ -1,0 +1,76 @@
+{
+  "ID": "29f95e08-4d98-4438-a19b-5c910b97a9bf",
+  "Version": "2.3.2.0",
+  "Name": "TextBmFontLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "LabelText": "font test 1122",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "markerfelt24shadow.fnt",
+              "Plist": ""
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 267.9651,
+              "Y": 797.4369
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4187,
+              "Y": 0.702
+            },
+            "PreSize": {
+              "X": 0.2172,
+              "Y": 0.0229
+            },
+            "LeftMargin": 198.4651,
+            "RightMargin": 302.5349,
+            "TopMargin": 325.5631,
+            "BottomMargin": 784.4369,
+            "Tag": 20,
+            "ActionTag": 1577152395,
+            "Size": {
+              "X": 157.0,
+              "Y": 26.0
+            },
+            "Name": "textfnt1",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "markerfelt24shadow.fnt",
+        "markerfelt24shadow.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

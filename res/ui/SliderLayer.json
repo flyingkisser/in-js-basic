@@ -1,0 +1,149 @@
+{
+  "ID": "335b013d-f04e-4d64-9c6a-22f987f118de",
+  "Version": "2.3.2.0",
+  "Name": "SliderLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 27,
+        "Children": [
+          {
+            "BackGroundData": {
+              "Type": "Default",
+              "Path": "Default/Slider_Back.png",
+              "Plist": ""
+            },
+            "ProgressBarData": {
+              "Type": "Default",
+              "Path": "Default/Slider_PressBar.png",
+              "Plist": ""
+            },
+            "BallNormalData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Normal.png",
+              "Plist": ""
+            },
+            "BallPressedData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Press.png",
+              "Plist": ""
+            },
+            "BallDisabledData": {
+              "Type": "Default",
+              "Path": "Default/SliderNode_Disable.png",
+              "Plist": ""
+            },
+            "PercentInfo": 50,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 236.5219,
+              "Y": 921.2931
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3696,
+              "Y": 0.811
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 136.5219,
+            "RightMargin": 303.4781,
+            "TopMargin": 207.7069,
+            "BottomMargin": 914.2931,
+            "Tag": 28,
+            "ActionTag": 34012049,
+            "Size": {
+              "X": 200.0,
+              "Y": 14.0
+            },
+            "Name": "slider1",
+            "ctype": "SliderObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 48,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.5989,
+              "Y": 675.4985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5009,
+              "Y": 0.5946
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0475
+            },
+            "LeftMargin": 0.5989,
+            "RightMargin": -0.5989,
+            "TopMargin": 433.5015,
+            "BottomMargin": 648.4985,
+            "Tag": 29,
+            "ActionTag": 582986340,
+            "Size": {
+              "X": 640.0,
+              "Y": 54.0
+            },
+            "Name": "text1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Slider_Back.png",
+        "Default/Slider_PressBar.png",
+        "Default/SliderNode_Disable.png",
+        "Default/SliderNode_Normal.png",
+        "Default/SliderNode_Press.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

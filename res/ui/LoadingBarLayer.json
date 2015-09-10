@@ -1,0 +1,123 @@
+{
+  "ID": "a052aefc-e5ca-42c8-95bf-3ca29b48b433",
+  "Version": "2.3.2.0",
+  "Name": "LoadingBarLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 22,
+        "Children": [
+          {
+            "ProgressInfo": 65,
+            "ImageFileData": {
+              "Type": "Default",
+              "Path": "Default/LoadingBarFile.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 307.0973,
+              "Y": 867.8842
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4798,
+              "Y": 0.764
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.044
+            },
+            "LeftMargin": 107.0973,
+            "RightMargin": 132.9027,
+            "TopMargin": 243.1158,
+            "BottomMargin": 842.8842,
+            "Tag": 23,
+            "ActionTag": 58613143,
+            "Size": {
+              "X": 400.0,
+              "Y": 50.0
+            },
+            "Name": "bar1",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 318.5421,
+              "Y": 513.1007
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4977,
+              "Y": 0.4517
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 273.0421,
+            "RightMargin": 275.9579,
+            "TopMargin": 611.3993,
+            "BottomMargin": 501.6007,
+            "Tag": 24,
+            "ActionTag": 1974464095,
+            "Size": {
+              "X": 218.0,
+              "Y": 54.0
+            },
+            "Name": "text1",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/LoadingBarFile.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,357 @@
+{
+  "ID": "72999ee4-ba48-41d9-8412-4f64b79481a0",
+  "Version": "2.3.2.0",
+  "Name": "TextLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 40,
+        "Children": [
+          {
+            "FontSize": 72,
+            "LabelText": "new ttf font\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 297.0447,
+              "Y": 993.8865
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4641,
+              "Y": 0.8749
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 138.0447,
+            "RightMargin": 183.9553,
+            "TopMargin": 94.1135,
+            "BottomMargin": 945.8865,
+            "Tag": 41,
+            "ActionTag": -307859516,
+            "Size": {
+              "X": 318.0,
+              "Y": 96.0
+            },
+            "Name": "text1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "1234567890\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 305.1756,
+              "Y": 838.1656
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4768,
+              "Y": 0.7378
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 181.1756,
+            "RightMargin": 210.8244,
+            "TopMargin": 249.8344,
+            "BottomMargin": 790.1656,
+            "Tag": 42,
+            "ActionTag": 1899668592,
+            "Size": {
+              "X": 248.0,
+              "Y": 96.0
+            },
+            "Name": "text2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "滚滚长江东逝水\n",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 305.8345,
+              "Y": 674.9724
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4779,
+              "Y": 0.5942
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 53.8345,
+            "RightMargin": 82.1655,
+            "TopMargin": 413.0276,
+            "BottomMargin": 626.9724,
+            "Tag": 43,
+            "ActionTag": 1912000006,
+            "Size": {
+              "X": 504.0,
+              "Y": 96.0
+            },
+            "Name": "text3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "ButtonText": "Change Font",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 70,
+              "G": 65,
+              "B": 69
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 299.51,
+              "Y": 401.9968
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.468,
+              "Y": 0.3539
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.088
+            },
+            "LeftMargin": 99.51,
+            "RightMargin": 140.49,
+            "TopMargin": 684.0032,
+            "BottomMargin": 351.9968,
+            "Tag": 9,
+            "ActionTag": -2013644675,
+            "Size": {
+              "X": 400.0,
+              "Y": 100.0
+            },
+            "Name": "btn1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 72,
+            "ButtonText": "Change size",
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "TextColor": {
+              "R": 70,
+              "G": 65,
+              "B": 69
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 297.1989,
+              "Y": 254.1128
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4644,
+              "Y": 0.2237
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.088
+            },
+            "LeftMargin": 97.1989,
+            "RightMargin": 142.8011,
+            "TopMargin": 831.8871,
+            "BottomMargin": 204.1128,
+            "Tag": 10,
+            "ActionTag": -414183725,
+            "Size": {
+              "X": 400.0,
+              "Y": 100.0
+            },
+            "Name": "btn2",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "my.ttf"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

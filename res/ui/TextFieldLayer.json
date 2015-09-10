@@ -1,0 +1,376 @@
+{
+  "ID": "d7b23125-0742-4c5e-9719-99b5f1417035",
+  "Version": "2.3.2.0",
+  "Name": "TextFieldLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 31,
+        "Children": [
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "FontSize": 36,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "input your username here",
+            "MaxLengthEnable": true,
+            "MaxLengthText": 16,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 428.4168,
+              "Y": 936.2177
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6694,
+              "Y": 0.8241
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.044
+            },
+            "LeftMargin": 228.4168,
+            "RightMargin": 11.5832,
+            "TopMargin": 174.7823,
+            "BottomMargin": 911.2177,
+            "Tag": 32,
+            "ActionTag": -947163187,
+            "Size": {
+              "X": 400.0,
+              "Y": 50.0
+            },
+            "Name": "input1",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "username",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 86.986,
+              "Y": 940.0329
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1359,
+              "Y": 0.8275
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.986,
+            "RightMargin": 473.014,
+            "TopMargin": 174.9671,
+            "BottomMargin": 919.0329,
+            "Tag": 33,
+            "ActionTag": -1464656321,
+            "Size": {
+              "X": 160.0,
+              "Y": 42.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "password\n",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 83.634,
+              "Y": 796.5117
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1307,
+              "Y": 0.7012
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 6.634,
+            "RightMargin": 479.366,
+            "TopMargin": 297.4883,
+            "BottomMargin": 754.5117,
+            "Tag": 34,
+            "ActionTag": 150936589,
+            "Size": {
+              "X": 154.0,
+              "Y": 84.0
+            },
+            "Name": "Text_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontResource": {
+              "Type": "Normal",
+              "Path": "my.ttf",
+              "Plist": ""
+            },
+            "FontSize": 36,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "input your passwd here",
+            "MaxLengthText": 10,
+            "PasswordEnable": true,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 409.8047,
+              "Y": 809.8642
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6403,
+              "Y": 0.7129
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.044
+            },
+            "LeftMargin": 209.8047,
+            "RightMargin": 30.1953,
+            "TopMargin": 301.1358,
+            "BottomMargin": 784.8642,
+            "Tag": 35,
+            "ActionTag": 823406015,
+            "Size": {
+              "X": 400.0,
+              "Y": 50.0
+            },
+            "Name": "input2",
+            "ctype": "TextFieldObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 36,
+            "LabelText": "username",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 318.2493,
+              "Y": 680.1578
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4973,
+              "Y": 0.5987
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.037
+            },
+            "LeftMargin": -1.7507,
+            "RightMargin": 1.7507,
+            "TopMargin": 434.8422,
+            "BottomMargin": 659.1578,
+            "Tag": 36,
+            "ActionTag": 365969834,
+            "Size": {
+              "X": 640.0,
+              "Y": 42.0
+            },
+            "Name": "t1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 36,
+            "LabelText": "username",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 324.4338,
+              "Y": 532.8224
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5069,
+              "Y": 0.469
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.037
+            },
+            "LeftMargin": 4.4338,
+            "RightMargin": -4.4338,
+            "TopMargin": 582.1776,
+            "BottomMargin": 511.8224,
+            "Tag": 37,
+            "ActionTag": -988755261,
+            "Size": {
+              "X": 640.0,
+              "Y": 42.0
+            },
+            "Name": "t2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 36,
+            "LabelText": "info here",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.6935,
+              "Y": 320.1157
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4995,
+              "Y": 0.2818
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1761
+            },
+            "LeftMargin": -0.3065,
+            "RightMargin": 0.3065,
+            "TopMargin": 715.8843,
+            "BottomMargin": 220.1157,
+            "Tag": 38,
+            "ActionTag": 1560156064,
+            "Size": {
+              "X": 640.0,
+              "Y": 200.0
+            },
+            "Name": "t3",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "my.ttf"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

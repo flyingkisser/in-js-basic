@@ -1,0 +1,172 @@
+{
+  "ID": "5801f3df-3d84-44e4-8201-aa8c15d2d475",
+  "Version": "2.3.2.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 11,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "1.jpg",
+              "Plist": "UIPlist.plist"
+            },
+            "Scale9Width": 536,
+            "Scale9Height": 928,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.6317,
+              "Y": 657.2818
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.501,
+              "Y": 0.5786
+            },
+            "PreSize": {
+              "X": 0.8375,
+              "Y": 0.8169
+            },
+            "LeftMargin": 52.6317,
+            "RightMargin": 51.3683,
+            "TopMargin": 14.7183,
+            "BottomMargin": 193.2818,
+            "Tag": 13,
+            "ActionTag": 511647254,
+            "Size": {
+              "X": 536.0,
+              "Y": 928.0
+            },
+            "Name": "imgCard",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 36,
+            "LabelText": "hp+30\n",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 49.3119,
+              "Y": 10.9765
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.077,
+              "Y": 0.0097
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.1881,
+            "RightMargin": 540.1881,
+            "TopMargin": 1083.0234,
+            "BottomMargin": -31.0235,
+            "Tag": 21,
+            "ActionTag": 2076780778,
+            "Size": {
+              "X": 101.0,
+              "Y": 84.0
+            },
+            "Name": "textHP",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 36,
+            "IsCustomSize": true,
+            "LabelText": "",
+            "PlaceHolderText": "input your name",
+            "MaxLengthText": 10,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 417.4066,
+              "Y": 25.5264
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 165,
+              "G": 42,
+              "B": 148
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6522,
+              "Y": 0.0225
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.044
+            },
+            "LeftMargin": 217.4066,
+            "RightMargin": 22.5934,
+            "TopMargin": 1085.4736,
+            "BottomMargin": 0.5264,
+            "Tag": 22,
+            "ActionTag": -1835027675,
+            "Size": {
+              "X": 400.0,
+              "Y": 50.0
+            },
+            "Name": "input_name",
+            "ctype": "TextFieldObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 1136.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "UIPlist.plist",
+        "UIPlist.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}
